@@ -1,2 +1,10 @@
-# gaming-and-productivity-specs
-gaming and productivity specs detailed explanation that you should know
+# Gaming And Productivity Specs
+Have you ever wondered why Mac cannot be used
+as dedicated gaming machine? And
+why Windows is the gaming machine?
+
+## Mac Vs Windows 
+
+## The Graphics
+
+## The Resolution & Display Scaling
