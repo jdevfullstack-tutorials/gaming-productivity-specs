@@ -41,4 +41,19 @@ on the screen. This will also be a different
 one when it is 4k or 1080p, as 4k pixels 
 are more compact than 1080p.
 
+## Native Console Commands
+This is also where the two machines vary
+sharply.
+
+Mac advantage is that it is based from
+UNIX, the original machine for software
+developers whereas Windows originated
+from MS-DOS without any trace
+of it from UNIX.
+
+So, Mac is most of the time the preferred
+machine for developers. Plus, those
+who really want to install Linux
+on a Mac machine will be a great
+choice compared to Windows machine.
 
