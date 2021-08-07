@@ -29,6 +29,9 @@ even if it is UHD.
 Windows on the other hand is good
 in 1080p but the scaling is not
 that good compared to Mac.
+Even just for 1080p external monitors,
+they way things were scaled would
+not be proportional. 
 
 ## The Graphics
 This is where they have significant
