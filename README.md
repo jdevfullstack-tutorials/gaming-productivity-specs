@@ -51,7 +51,7 @@ on the screen. This will also be a different
 one when it is 4k or 1080p, as 4k pixels 
 are more compact than 1080p.
 
-## Native Console Commands
+## The Terminals
 This is also where the two machines vary
 sharply.
 
