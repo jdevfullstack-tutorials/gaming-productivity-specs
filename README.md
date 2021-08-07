@@ -20,6 +20,10 @@ Also, I have a separate review of iMac:
 
 https://github.com/xdvrx1/imac-review
 
+Also, more of monitor display reviews:
+
+https://github.com/xdvrx1/display-resolution-review
+
 ## Mac Vs Windows 
 ## Display | Resolution | Display Scaling
 As we all know, a Mac machine is the choice as
