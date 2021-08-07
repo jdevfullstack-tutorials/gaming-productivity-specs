@@ -11,7 +11,7 @@ or gaming machines.
 
 Don't get me wrong, light games
 or browser-based games can be played
-well. I tested the 4k iMac playing
+well on a Mac. I tested the 4k iMac playing
 the online Counter Strike, pure
 browser-based, and it was doing well
 better than the 1080 gaming PC build.
