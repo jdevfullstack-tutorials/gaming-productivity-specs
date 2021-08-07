@@ -2,7 +2,7 @@
 Have you ever wondered why a 
 Mac machine cannot be used
 as a dedicated gaming machine? And
-why is Windows OS the gaming machine?
+why is Windows OS the preferred gaming machine?
 Even though you can say that these
 computers are all-purpose, some
 machines have advantages and
