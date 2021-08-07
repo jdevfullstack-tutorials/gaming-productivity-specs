@@ -19,7 +19,7 @@ What we are referring here are those
 demanding games like COD.
 
 ## Mac Vs Windows 
-## The Display, the Resolution and Display Scaling
+## Display Resolution Display Scaling
 As we all know, Mac machines are the choice as
 productivity machines. It has the UI
 simplicity and the best display on
