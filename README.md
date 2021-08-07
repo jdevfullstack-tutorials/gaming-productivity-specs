@@ -34,10 +34,10 @@ the way things were scaled would
 not be proportional. 
 
 ## The Graphics
-This is where they have significant
-differences. Macs graphics are good
+Macs graphics are good
 but not that much for gaming while
-in Windows, almost all graphics specs
+Windows, on the other hand, 
+almost all graphics specs
 are provided by vendors because
 it is the preferred machine for gaming.
 It only means several others support
