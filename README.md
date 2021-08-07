@@ -121,4 +121,4 @@ the refresh rate so that there is almost
 no delay when you press a certain command,
 particularly for First Person Shooter games
 like Counter Strike. 1080p will not demand
-much processor compared to 4k of the same size.
+much processor compared to a 4k of the same size.
