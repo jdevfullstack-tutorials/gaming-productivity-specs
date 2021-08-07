@@ -7,6 +7,14 @@ Even though you can say that computers
 we are using are generic, they have their
 own focuses.
 
+Don't get me wrong, light games
+or browser-based games can be played
+well. I tested the 4k iMac playing
+the online Counter Strike, pure
+browser-based, and it was doing well.
+What we are referring here are those
+demanding games like COD.
+
 ## Mac Vs Windows 
 ## The Display, the Resolution and Display Scaling
 As we all know, Mac machines are the choice as
