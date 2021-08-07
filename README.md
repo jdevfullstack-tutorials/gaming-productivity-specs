@@ -40,6 +40,11 @@ but not that much for gaming while
 in Windows, almost all graphics specs
 are provided by vendors because
 it is the preferred machine for gaming.
+It only means several others supports
+Windows than Mac, you know, Mac
+has a limited outside support when
+it comes to hardware, even they
+now released their very own M1 chip.  
 
 We all know graphics and resolution are two
 different things. Graphics card is dedicated for
