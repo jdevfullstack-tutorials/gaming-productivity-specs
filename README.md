@@ -15,8 +15,6 @@ well on a Mac. I tested the 4k iMac playing
 the online Counter Strike, pure
 browser-based, and it was doing well
 better than the 1080 gaming PC build.
-What we are referring to are those
-demanding games like COD.
 
 ## Mac Vs Windows 
 ## Display | Resolution | Display Scaling
