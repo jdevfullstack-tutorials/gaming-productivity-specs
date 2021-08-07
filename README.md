@@ -101,3 +101,12 @@ distance but your eyes can relax.
 A 4k 32 inches monitor will make things
 bigger compared to 4k 21 inches monitor,
 so you're eyes can actually relaxed too.
+
+In gaming, a 24" 1080p is the optimal one,
+so that you have a good view at normal
+viewing distance at the same time maximizing
+the refresh rate so that there is almost
+no delay when you press a certain command,
+particularly for First Person Shooter games
+like Counter Strike. 1080p will not demand
+much processor compared to 4k of the same size.
