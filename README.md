@@ -11,7 +11,8 @@ Don't get me wrong, light games
 or browser-based games can be played
 well. I tested the 4k iMac playing
 the online Counter Strike, pure
-browser-based, and it was doing well.
+browser-based, and it was doing well
+better than the 1080 gaming PC build.
 What we are referring here are those
 demanding games like COD.
 
