@@ -90,7 +90,7 @@ will find it very hard to see.
 
 So for a normal computer viewing
 distance, 1080p is a good starting point
-at 27" computer monitor.
+for a 27" computer monitor.
 A 4k 32 inches monitor will make things
 bigger compared to 4k 21 inches monitor,
 so you're eyes can actually relaxed.
