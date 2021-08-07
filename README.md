@@ -71,8 +71,10 @@ There are so many confusing articles
 about Retina display. So let's take
 a look at this.
 
-Depending on the distance,
+Depending on the distance given,
 every pixel per inch can be retina.
+Even a 1080p can be retina if
+you view it far enough! 
 
 Here is a very good calculator for that:
 
