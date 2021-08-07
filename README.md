@@ -14,7 +14,7 @@ or browser-based games can be played
 well on a Mac. I tested the 4k iMac playing
 the online Counter Strike, pure
 browser-based, and it was doing well
-better than the 1080 gaming PC build.
+better than the 1080p gaming PC build.
 
 ## Mac Vs Windows 
 ## Display | Resolution | Display Scaling
