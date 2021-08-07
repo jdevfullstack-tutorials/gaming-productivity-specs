@@ -46,7 +46,7 @@ are more compact than 1080p.
 This is also where the two machines vary
 sharply.
 
-Mac's advantage is that it is based from
+Mac's advantage is that it is based on
 UNIX, the original machine for software
 developers whereas Windows originated
 from MS-DOS, which was not a UNIX-based OS.
