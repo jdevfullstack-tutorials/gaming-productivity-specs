@@ -66,3 +66,14 @@ who really want to install Linux
 on a Mac machine will be a great
 choice compared to a Windows machine.
 
+## About Retina Display
+There are so many confusing articles
+about Retina display. So let's take
+a look at this.
+
+Depending on the distance,
+every pixel per inch can be retina.
+
+Here is a very good calculator for that:
+
+https://www.designcompaniesranked.com/resources/is-this-retina/
