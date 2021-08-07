@@ -70,7 +70,7 @@ developers whereas Windows originated
 from MS-DOS, which was not a UNIX-based OS.
 
 So, Mac is most of the time the preferred
-machine for developers given
+machine for developers because
 the terminal commands are really
 important for them. Plus, those
 who really want to install Linux
