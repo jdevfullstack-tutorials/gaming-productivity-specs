@@ -16,6 +16,10 @@ the online Counter Strike, pure
 browser-based, and it was doing well
 better than the 1080p gaming PC build.
 
+Also, I have a separate review of iMac:
+
+https://github.com/xdvrx1/imac-review
+
 ## Mac Vs Windows 
 ## Display | Resolution | Display Scaling
 As we all know, a Mac machine is the choice as
