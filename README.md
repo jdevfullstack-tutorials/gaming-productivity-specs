@@ -15,7 +15,7 @@ well. I tested the 4k iMac playing
 the online Counter Strike, pure
 browser-based, and it was doing well
 better than the 1080 gaming PC build.
-What we are referring here are those
+What we are referring to are those
 demanding games like COD.
 
 ## Mac Vs Windows 
@@ -68,11 +68,11 @@ who really want to install Linux
 on a Mac machine will be a great
 choice compared to a Windows machine.
 
-For gaming, it's neglible.
+For gaming, it's negligible.
 
 ## About Retina Display
 There are so many confusing articles
-about Retina display. So let's take
+about the Retina display. So let's take
 a look at this.
 
 Depending on the distance given,
@@ -87,12 +87,12 @@ https://www.designcompaniesranked.com/resources/is-this-retina/
 Well, Apple just made it happen
 so that we have a better viewing experience.
 Even good smartphones back then
-was naturally retina for a good
-viewing experience especially that
+were naturally retina for a good
+viewing experience, especially that
 we view them close to our eyes.
 
 The only downside of having a very high
-resolution for a certain size is that,
+resolution for a certain size is that
 it will make things smaller, that for
 those who don't have a normal vision
 will find it very hard to see.
@@ -101,10 +101,10 @@ So for a normal computer viewing
 distance, 1080p is a good starting point
 for a 27" computer monitor although
 it's not retina at a normal viewing
-distance but your eyes can relax.
+distance but our eyes can relax.
 A 4k 32 inches monitor will make things
-bigger compared to 4k 21 inches monitor,
-so you're eyes can actually relaxed too.
+bigger compared to a 4k 21 inches monitor,
+so our eyes can actually relax too.
 
 In gaming, a 24" 1080p is the optimal one,
 so that you have a good view at normal
