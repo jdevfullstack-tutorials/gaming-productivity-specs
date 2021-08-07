@@ -74,7 +74,7 @@ who really want to install Linux
 on a Mac machine will be a great
 choice compared to a Windows machine.
 
-For gaming, it's negligible.
+For gaming, the native terminals are negligible.
 
 ## About Retina Display
 There are so many confusing articles
