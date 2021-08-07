@@ -69,7 +69,9 @@ developers whereas Windows originated
 from MS-DOS, which was not a UNIX-based OS.
 
 So, Mac is most of the time the preferred
-machine for developers. Plus, those
+machine for developers given
+the terminal commands are really
+important for them. Plus, those
 who really want to install Linux
 on a Mac machine will be a great
 choice compared to a Windows machine.
