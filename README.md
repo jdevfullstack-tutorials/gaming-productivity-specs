@@ -82,15 +82,22 @@ https://www.designcompaniesranked.com/resources/is-this-retina/
 
 Well, Apple just made it happen
 so that we have a better viewing experience.
+Even good smartphones back then
+was naturally retina for a good
+viewing experience especially that
+we view them close to our eyes.
+
 The only downside of having a very high
 resolution for a certain size is that,
-it will make things smaller which for
+it will make things smaller, that for
 those who don't have a normal vision
 will find it very hard to see.
 
 So for a normal computer viewing
 distance, 1080p is a good starting point
-for a 27" computer monitor.
+for a 27" computer monitor although
+it's not retina at a normal viewing
+distance but your eyes can relax.
 A 4k 32 inches monitor will make things
 bigger compared to 4k 21 inches monitor,
-so you're eyes can actually relaxed.
+so you're eyes can actually relaxed too.
