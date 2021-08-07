@@ -3,8 +3,8 @@ Have you ever wondered why a
 Mac machine cannot be used
 as a dedicated gaming machine? And
 why is Windows OS the gaming machine?
-Even though you can say that computers
-we are using are all-purpose, some
+Even though you can say that these
+computers are all-purpose, some
 machines have advantages and
 disadvantages as productivity
 or gaming machines.
