@@ -48,8 +48,7 @@ sharply.
 Mac advantage is that it is based from
 UNIX, the original machine for software
 developers whereas Windows originated
-from MS-DOS without any trace
-of it from UNIX.
+from MS-DOS that was not a UNIX-based OS.
 
 So, Mac is most of the time the preferred
 machine for developers. Plus, those
