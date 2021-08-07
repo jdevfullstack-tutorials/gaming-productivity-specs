@@ -132,3 +132,14 @@ no delay when you press a certain command,
 particularly, say, for First Person Shooter games
 like Counter Strike. 1080p will not demand
 much processor compared to a 4k of the same size.
+
+## Realizations
+With the advent of pure browser-based games,
+like the online Counter Strike, Mac machines
+are really great for that.
+
+For solid gaming, Windows is still the champion
+because they are supported by the gaming
+vendors and community.
+
+For productivity, I still prefer Mac.
