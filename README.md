@@ -4,8 +4,10 @@ Mac machine cannot be used
 as a dedicated gaming machine? And
 why is Windows OS the gaming machine?
 Even though you can say that computers
-we are using are generic, they have their
-own focuses.
+we are using are all-purpose, some
+machines have advantages and
+disadvantages as productivity
+or gaming machines.
 
 Don't get me wrong, light games
 or browser-based games can be played
