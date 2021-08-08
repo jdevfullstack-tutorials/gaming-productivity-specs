@@ -182,7 +182,7 @@ like the online Counter Strike, Mac machines
 are really great for that.
 
 For solid gaming, Windows is still the champion
-because they are supported by the gaming
+because it is supported by the gaming
 vendors and community.
 
 For productivity, I still prefer Mac.
