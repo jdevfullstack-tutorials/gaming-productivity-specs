@@ -174,12 +174,16 @@ page can actually consume more than
 500MB of memory, just like an online
 CAD application or online Counter Strike.
 
-So, at least 8GB memory, but if you
-use more and more, then 16GB. It's
+So, at least 8GB memory or to be sure
+you will not be running out of memory
+in the future, get 16GB. It's
 really that expensive too but
 it's worth it in the long run.
 You don't need to close every application
 from time to time just to free your memory.
+Think of it just like your physical table,
+the more space you have, the more things
+you can put on it.
 
 ## Realizations
 With the advent of pure browser-based games,
