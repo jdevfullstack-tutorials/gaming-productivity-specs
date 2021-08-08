@@ -31,8 +31,7 @@ a productivity machine. It has the UI
 simplicity and the best display on
 the screen, true tone and retina.
 It scales well when you project
-a Mac machine on a very large screen
-even if it is UHD.
+a Mac machine on a very large UHD screen.
 
 Windows on the other hand is good
 in 1080p but the scaling is not
@@ -81,9 +80,9 @@ So, Mac is most of the time the preferred
 machine for developers because
 the terminal commands are really
 important for them. Plus, those
-who really want to install Linux
-on a Mac machine will be a great
-choice compared to a Windows machine.
+who really want to install Linux,
+a Mac machine will be the better
+option than a Windows machine.
 
 For gaming, the native terminals are negligible.
 
