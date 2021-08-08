@@ -74,7 +74,7 @@ sharply.
 Mac's advantage is that it is based on
 UNIX, the original machine for software
 developers whereas Windows originated
-from MS-DOS, which was not a UNIX-based OS.
+from DOS, which was not a UNIX-based OS.
 
 So, Mac is most of the time the preferred
 machine for developers because
@@ -152,7 +152,7 @@ of the computer. So around 250 SSD
 is enough for your system and program
 files unless you want to locally install
 heavy programs. My company-issued iMac
-I have been using, I have never consumed
+that I have been using, I have never consumed
 more than 1GB storage. Everything
 is on the cloud so that
 anywhere as long as there is an
