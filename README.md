@@ -13,7 +13,7 @@ Don't get me wrong, light games
 or browser-based games can be played
 well on a Mac. I tested the 4k iMac playing
 the online Counter Strike, pure
-browser-based, and it was doing well
+browser-based, and it was doing 
 good much like a 1080p gaming PC build.
 
 Also, I have a separate review of iMac:
