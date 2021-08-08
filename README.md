@@ -14,7 +14,7 @@ or browser-based games can be played
 well on a Mac. I tested the 4k iMac playing
 the online Counter Strike, pure
 browser-based, and it was doing 
-good much like a 1080p gaming PC build.
+well, much like a 1080p gaming PC build.
 
 Also, I have a separate review of iMac:
 
@@ -79,7 +79,7 @@ from MS-DOS, which was not a UNIX-based OS.
 So, Mac is most of the time the preferred
 machine for developers because
 the terminal commands are really
-important for them. Plus, those
+important for them. Plus, for those
 who really want to install Linux,
 a Mac machine will be the better
 option than a Windows machine.
@@ -155,7 +155,7 @@ heavy programs. My company-issued iMac
 I have been using, I have never consumed
 more than 1GB storage. Everything
 is on the cloud so that
-anywhere as long as there is
+anywhere as long as there is an
 Internet connection, I can access
 them with any computer.
 
