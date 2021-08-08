@@ -58,8 +58,8 @@ Without a dedicated graphics card or none at all,
 it will be the processor that will process
 the graphics so that it can be displayed
 on the screen. This will also be different
-when it is 4k or 1080p, as 4k pixels 
-are more compact than 1080p and that
+when it is 4k or 1080p, as 4k
+is more compact than 1080p and that
 puts pressure on the processor.
 
 ## The Terminals
