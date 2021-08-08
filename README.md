@@ -183,7 +183,7 @@ it's worth it in the long run.
 You don't need to close every application
 from time to time just to free your memory.
 Think of it just like your physical table,
-the more space you have, the more things
+the more space you have, the more stuff
 you can put on it.
 
 ## Realizations
