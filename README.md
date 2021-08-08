@@ -47,11 +47,6 @@ Windows, on the other hand,
 almost all graphics specs
 are provided by manufacturers because
 it is the preferred machine for gaming.
-It only means several others support
-Windows more than Mac, as you know, Mac
-has a limited outside support when
-it comes to hardware. They even released
-their very own M1 chip.  
 
 We all know graphics and resolution are two
 different things. Graphics card is dedicated for
@@ -101,8 +96,8 @@ Here is a very good calculator for that:
 
 https://www.designcompaniesranked.com/resources/is-this-retina/
 
-Well, Apple just made it happen
-so that we have a better viewing experience.
+Well, Apple just emphasized the term
+and they called it Retina Display.
 Even in the past, good smartphones
 were naturally retina for a good
 viewing experience, especially that
@@ -111,7 +106,9 @@ we view them close to our eyes.
 One downside of having a very high
 resolution for a certain size is that
 it will make things smaller for
-a big monitor and
+a big monitor (because of the size,
+you view it far enough to see the
+entire screen) and
 those who don't have a normal vision
 will find it problematic.
 
@@ -120,8 +117,8 @@ distance, 1080p is a good starting point
 for a 27" computer monitor although
 it's not retina at a normal viewing
 distance but our eyes can relax.
-A 4k 32" monitor will make things
-bigger compared to a 4k 21" monitor,
+A 32" 4k monitor will make things
+bigger compared to a 21" 4k monitor,
 so our eyes can relax too.
 
 In gaming, a 24" 1080p is the optimal one,
@@ -137,9 +134,9 @@ much processor compared to a 4k of the same size.
 With the advent of Solid State Drive,
 it's becoming the default of new laptops
 and desktops, even in gaming.
-The performance is really a great
-improvement from the hard disk.
-Even iMac releases now are all using
+The performance is really great
+compared to the hard disk.
+Even the new 24" iMac release is using
 SSD.
 
 Now, how much storage? As for me, for
@@ -177,7 +174,7 @@ CAD application or online Counter Strike.
 So, at least 8GB memory or to be sure
 you will not be running out of memory
 in the future, get 16GB. It's
-really that expensive too but
+additional pay but
 it's worth it in the long run.
 You don't need to close every application
 from time to time just to free your memory.
@@ -200,7 +197,7 @@ And also for game developers out there,
 hoping that you can develop pure browser-based
 games so that it can be played on any machine.
 As for me, I don't want games that can
-only be played on one platform so that
+only be played on one platform, so that
 from time to time I'm using a different
 machine, I can play without
 any local installation.
