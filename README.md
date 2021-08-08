@@ -150,9 +150,13 @@ as this is just for program files
 of your machine. So around 250 SSD
 is enough for your system and program
 files unless you want to locally install
-heavy programs. The company iMac
+heavy programs. My company-issued iMac
 I have been using, I did not consume
-more than 1GB storage.
+more than 1GB storage. Everything
+is on the cloud so that
+anywhere as long as there is
+Internet connection, I can access
+them with any computer.
 
 Hard disk on the other hand will still 
 remain as for external backup. Say,
