@@ -164,7 +164,7 @@ really that expensive.
 ## Memory
 Again, as I'm  using more and more
 browser-based apps, it's demanding
-memory. We all know that a certain
+more memory. We all know that a certain
 page can actually consume more than
 500MB of memory, just like an online
 CAD application or online Counter Strike.
