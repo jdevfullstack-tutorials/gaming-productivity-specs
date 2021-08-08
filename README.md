@@ -133,6 +133,49 @@ particularly, say, for First Person Shooter games
 like Counter Strike. 1080p will not demand
 much processor compared to a 4k of the same size.
 
+## SSD Or Hard Disk
+With the advent of Solid State Drive,
+it's becoming the default of new laptops.
+The performance is really a great
+improvement from the hard disk.
+Even iMac releases now are all using
+SSD.
+
+Now, how much storage? As for me, for
+productivity, I don't demand much, 
+as most of my apps are browser-based,
+even the TinkerCAD is pure browser-based.
+It only means I don't need much SSD,
+as this is just for program files 
+of your machine. So around 250 SSD
+is enough for your system and program
+files unless you want to locally install
+heavy programs. The company iMac
+I have been using, I did not consume
+more than 1GB storage.
+
+Hard disk on the other hand will still 
+remain as for external backup. Say,
+you have tons of videos downloaded and 
+several files, store that on a hard
+disk. Don't waste the SSD, it's
+really that expensive.
+
+## Memory
+Again, as I'm  using more and more
+browser-based apps, it's demanding
+memory. We all know that a certain
+page can actually consume more than
+500MB of memory, just like an online
+CAD application or online Counter Strike.
+
+So, at least 8GB memory, but if you
+use more and more, then 16GB. It's
+really that expensive too but
+it's worth it in the long run.
+You don't need to close every application
+from time to time just to free your memory.
+
 ## Realizations
 With the advent of pure browser-based games,
 like the online Counter Strike, Mac machines
