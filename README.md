@@ -103,7 +103,7 @@ https://www.designcompaniesranked.com/resources/is-this-retina/
 
 Well, Apple just made it happen
 so that we have a better viewing experience.
-Even good smartphones back then
+Even in the past, good smartphones
 were naturally retina for a good
 viewing experience, especially that
 we view them close to our eyes.
