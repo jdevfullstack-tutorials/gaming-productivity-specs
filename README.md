@@ -14,7 +14,7 @@ or browser-based games can be played
 well on a Mac. I tested the 4k iMac playing
 the online Counter Strike, pure
 browser-based, and it was doing well
-better than the 1080p gaming PC build.
+good much like a 1080p gaming PC build.
 
 Also, I have a separate review of iMac:
 
@@ -136,7 +136,8 @@ much processor compared to a 4k of the same size.
 
 ## SSD Or Hard Disk
 With the advent of Solid State Drive,
-it's becoming the default of new laptops.
+it's becoming the default of new laptops
+and desktops, even in gaming.
 The performance is really a great
 improvement from the hard disk.
 Even iMac releases now are all using
