@@ -109,11 +109,12 @@ were naturally retina for a good
 viewing experience, especially that
 we view them close to our eyes.
 
-The only downside of having a very high
+One downside of having a very high
 resolution for a certain size is that
-it will make things smaller, that for
+it will make things smaller for
+a big monitor and
 those who don't have a normal vision
-will find it very hard to see.
+will find it problematic.
 
 So for a normal computer viewing
 distance, 1080p is a good starting point
