@@ -46,7 +46,7 @@ Macs graphics are good
 but not that much for gaming while
 Windows, on the other hand, 
 almost all graphics specs
-are provided by vendors because
+are provided by manufacturers because
 it is the preferred machine for gaming.
 It only means several others support
 Windows more than Mac, as you know, Mac
@@ -192,8 +192,8 @@ like the online Counter Strike, Mac machines
 are really great for that.
 
 For solid gaming, Windows is still the champion
-because it is supported by the gaming
-vendors and community.
+because it is supported by the
+manufacturers and community.
 
 For productivity, I still prefer Mac.
 
