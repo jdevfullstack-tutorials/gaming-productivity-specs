@@ -123,7 +123,7 @@ it's not retina at a normal viewing
 distance but our eyes can relax.
 A 4k 32 inches monitor will make things
 bigger compared to a 4k 21 inches monitor,
-so our eyes can actually relax too.
+so our eyes can relax too.
 
 In gaming, a 24" 1080p is the optimal one,
 so that you have a good view at normal
