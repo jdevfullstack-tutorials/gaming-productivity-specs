@@ -121,8 +121,8 @@ distance, 1080p is a good starting point
 for a 27" computer monitor although
 it's not retina at a normal viewing
 distance but our eyes can relax.
-A 4k 32 inches monitor will make things
-bigger compared to a 4k 21 inches monitor,
+A 4k 32" monitor will make things
+bigger compared to a 4k 21" monitor,
 so our eyes can relax too.
 
 In gaming, a 24" 1080p is the optimal one,
