@@ -147,7 +147,7 @@ as most of my apps are browser-based,
 even the TinkerCAD is pure browser-based.
 It only means I don't need much SSD,
 as this is just for program files 
-of your machine. So around 250 SSD
+of the computer. So around 250 SSD
 is enough for your system and program
 files unless you want to locally install
 heavy programs. My company-issued iMac
