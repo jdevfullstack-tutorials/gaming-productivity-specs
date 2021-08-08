@@ -93,7 +93,7 @@ about the Retina display. So let's take
 a look at this.
 
 Don't you know that depending 
-on the distance given,
+on the given distance,
 any resolution can be retina display?
 Even a 1080p can be retina if
 you view it far enough! 
