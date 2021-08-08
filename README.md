@@ -196,3 +196,12 @@ because it is supported by the gaming
 vendors and community.
 
 For productivity, I still prefer Mac.
+
+And also for game developers out there,
+hoping that you can develop pure browser-based
+games so that it can be played on any machine.
+As for me, I don't want games that can
+only be played on one platform so that
+from time to time I'm using a different
+machine, I can play without
+any local installation.
