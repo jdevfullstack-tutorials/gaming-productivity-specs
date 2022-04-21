@@ -1,4 +1,7 @@
 # Gaming & Productivity Specs
+
+*`updated 21 April 2022`*
+
 Have you ever wondered why a 
 Mac machine cannot be used
 as a dedicated gaming machine? And
