@@ -21,11 +21,11 @@ well, much like a 1080p gaming PC build.
 
 Also, I have a separate review of iMac:
 
-https://github.com/xdvrx1/imac-review
+https://github.com/jdevstatic/imac-review
 
 Also, more of monitor display reviews:
 
-https://github.com/xdvrx1/display-resolution-review
+https://github.com/jdevstatic/display-resolution-review
 
 ## Mac Vs Windows 
 ## Display | Resolution | Display Scaling
